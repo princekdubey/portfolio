@@ -164,10 +164,10 @@ button:hover{
 .imgbox img{
     position: relative;
     height: 100%;
-    width: calc(130% - 80px);
+    width: calc(110% - 80px);
     top: 20px;
-    right: 50px;
-    animation: animateUser 4s linear infinite;
+    right: 10px;
+    animation: animateUser 6s linear infinite;
 }
 @keyframes animateUser{
     50%{
