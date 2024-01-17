@@ -185,15 +185,6 @@ button:hover{
     filter: saturate(200%);
     animation: animate 4s linear infinite;
 }
-.imgbox #profile{
-    position: absolute;
-    top: -6%;
-    left: -5%;
-    transform: translate((-50%,-50%) rotate(-35deg));
-    width: 80%; 
-    filter: saturate(200%);
-    animation: animate 4s linear infinite;
-}
 @keyframes animate{
     50%{
         right: 39px;
